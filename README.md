@@ -1,4 +1,4 @@
-# Gestion des étudiants – TP PHP
+# TP PHP – Gestion des étudiants
 
 Application web PHP : connexion, liste avec recherche / tri / statistiques, ajout, modification, suppression et photo de profil. Données enregistrées dans `data/etudiants.txt`.
 
