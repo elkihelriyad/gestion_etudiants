@@ -1,0 +1,4 @@
+1;benali;sara;GI;14.5;;sara.benali@example.com
+2;elidrissi;youssef;IDIA;8.75;;youssef.elidrissi@example.com
+3;amrani;khadija;GE;16;;khadija.amrani@example.com
+4;EL  KIHEL;Riyad;IDIA;19;etu_6afb88f9e713f.png;elkihelriyad@gmail.com
